@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="A community-maintained map of shops confirmed to stock photographic film."
+    >
+    <title>Grainfinder</title>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="preconnect" href="https://unpkg.com">
+    <link rel="preconnect" href="https://tile.openstreetmap.org">
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIINfQmeawxRdQlyh/Qg3dLs0ZVFtrG0ZjQ="
+      crossorigin=""
+    >
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="map-panel" aria-label="Map of photographic film stockists">
+        <div id="map"></div>
+        <div class="map-status" id="status-message" role="status"></div>
+      </section>
+
+      <form class="map-search" role="search">
+        <label class="visually-hidden" for="stockist-search">Search film stockists and map areas</label>
+        <div class="search-field">
+          <input
+            id="stockist-search"
+            type="search"
+            autocomplete="off"
+            placeholder="Search shops or places"
+            aria-controls="search-results"
+            aria-autocomplete="list"
+            aria-expanded="false"
+          >
+          <button class="search-clear" id="search-clear" type="button" hidden>Clear</button>
+        </div>
+        <div class="search-results" id="search-results" role="listbox" hidden></div>
+      </form>
+
+      <aside
+        class="stockist-drawer"
+        id="stockist-drawer"
+        aria-hidden="true"
+        aria-labelledby="drawer-title"
+      >
+        <button class="drawer-close" id="drawer-close" type="button" aria-label="Close">
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M6 6l12 12M18 6 6 18"></path>
+          </svg>
+        </button>
+        <div class="drawer-content" id="drawer-content"></div>
+      </aside>
+    </main>
+
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="script.js"></script>
+  </body>
+</html>

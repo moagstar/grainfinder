@@ -1,0 +1,2589 @@
+[
+  {
+    "id": "analogue-shop-amsterdam",
+    "name": "Analogue Shop",
+    "address": "Zeedijk 80",
+    "city": "Amsterdam",
+    "postalCode": "1012 BB",
+    "country": "Netherlands",
+    "latitude": 52.376312,
+    "longitude": 4.900146,
+    "website": "https://analogueshop.com/",
+    "phone": "",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing"
+    ],
+    "notes": "Store page lists Kodak film products and an Amsterdam shop at Zeedijk 80.",
+    "confirmedBy": "analogueshop.com",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://analogueshop.com/pages/our-store"
+  },
+  {
+    "id": "analog-space-eindhoven",
+    "name": "Analog Space",
+    "address": "Leidingstraat 16",
+    "city": "Eindhoven",
+    "postalCode": "5617 AJ",
+    "country": "Netherlands",
+    "latitude": 51.447806,
+    "longitude": 5.455983,
+    "website": "https://analogspace.nl/",
+    "phone": "+31 40 30 80 165",
+    "email": "info@analogspace.nl",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Public website lists 35mm and 120 film stocks, analog photography services, and a visiting address in Eindhoven.",
+    "confirmedBy": "analogspace.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://analogspace.nl/"
+  },
+  {
+    "id": "brams-film-lab-utrecht",
+    "name": "Bram's Film Lab",
+    "address": "Westerkade 40",
+    "city": "Utrecht",
+    "postalCode": "3511 HC",
+    "country": "Netherlands",
+    "latitude": 52.08429,
+    "longitude": 5.12109,
+    "website": "https://bramhisfilmlab.nl/",
+    "phone": "+31 6 23 41 24 79",
+    "email": "hello@bramhisfilmlab.nl",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Shop page lists 35mm and 120 film products, cameras, lab services, and the Utrecht address.",
+    "confirmedBy": "bramhisfilmlab.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://bramhisfilmlab.nl/shop/"
+  },
+  {
+    "id": "fotohandel-delfshaven-delft",
+    "name": "Fotohandel Delfshaven",
+    "address": "Choorstraat 16",
+    "city": "Delft",
+    "postalCode": "2611 JG",
+    "country": "Netherlands",
+    "latitude": 52.013009,
+    "longitude": 4.357556,
+    "website": "https://fotohandeldelfshaven.nl/",
+    "phone": "+31 6 14 350 322",
+    "email": "info@fotohandeldelfshaven.nl",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras"
+    ],
+    "notes": "Website says Kodak film is well stocked and lists the Delft showroom address.",
+    "confirmedBy": "fotohandeldelfshaven.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://fotohandeldelfshaven.nl/"
+  },
+  {
+    "id": "foto-den-boer-amsterdam",
+    "name": "Foto Den Boer",
+    "address": "Tweede Hugo de Grootstraat 10",
+    "city": "Amsterdam",
+    "postalCode": "1052 LC",
+    "country": "Netherlands",
+    "latitude": 52.374379,
+    "longitude": 4.874497,
+    "website": "https://www.fotodenboer.nl/",
+    "phone": "+31 20 684 4554",
+    "email": "info@fotodenboer.nl",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing"
+    ],
+    "notes": "Public dealer listing confirms the Amsterdam shop details and Harman Photo dealer status; film stock confirmed by user report.",
+    "confirmedBy": "fotodenboer.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.fotodenboer.nl/"
+  },
+  {
+    "id": "foto-mignon-amsterdam",
+    "name": "Foto Mignon",
+    "address": "Van Woustraat 56",
+    "city": "Amsterdam",
+    "postalCode": "1073 LN",
+    "country": "Netherlands",
+    "latitude": 52.35591,
+    "longitude": 4.900164,
+    "website": "https://fotomignon.nl/",
+    "phone": "+31 20 662 0145",
+    "email": "info@fotomignon.nl",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Public website lists a fotorolletjes category and in-store analog film services.",
+    "confirmedBy": "fotomignon.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://fotomignon.nl/contact/"
+  },
+  {
+    "id": "fotostudio-heno-linnaeusstraat-amsterdam",
+    "name": "Fotostudio Heno",
+    "address": "Linnaeusstraat 78",
+    "city": "Amsterdam",
+    "postalCode": "1092 CN",
+    "country": "Netherlands",
+    "latitude": 52.36,
+    "longitude": 4.9251,
+    "website": "https://www.fotostudioheno.com/",
+    "phone": "+31 20 694 2863",
+    "email": "oost@fotostudioheno.com",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Community-suggested candidate for film stock. Official site confirms the Linnaeusstraat branch and film developing, printing, and scanning services, but not film sales yet.",
+    "confirmedBy": "",
+    "confirmedDate": "",
+    "confirmationType": "",
+    "sourceUrl": "https://www.fotostudioheno.com/",
+    "confirmations": []
+  },
+  {
+    "id": "nebo-korte-poten-den-haag",
+    "name": "NEBO de fotospecialist",
+    "address": "Korte Poten 8",
+    "city": "Den Haag",
+    "postalCode": "2511 ED",
+    "country": "Netherlands",
+    "latitude": 52.079613,
+    "longitude": 4.316747,
+    "website": "https://www.neboweb.nl/",
+    "phone": "+31 70 346 2252",
+    "email": "verkoop@neboweb.nl",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Branch page says the Korte Poten store sells color, black-and-white, and slide films and offers film developing.",
+    "confirmedBy": "neboweb.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.neboweb.nl/vestigingen/kortepoten"
+  },
+  {
+    "id": "nivo-schweitzer-amsterdam",
+    "name": "Nivo-Schweitzer",
+    "address": "Haarlemmerdijk 114",
+    "city": "Amsterdam",
+    "postalCode": "1013 JH",
+    "country": "Netherlands",
+    "latitude": 52.381689,
+    "longitude": 4.889087,
+    "website": "https://www.nivo-schweitzer.nl/",
+    "phone": "+31 20 623 3159",
+    "email": "info@nivo-schweitzer.nl",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Film category lists stocked Kodak, Ilford, Fujifilm, Polaroid, and other film; English homepage confirms in-house analog film processing.",
+    "confirmedBy": "nivo-schweitzer.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.nivo-schweitzer.nl/analoog-instant/film/c19521"
+  },
+  {
+    "id": "picture-momentz-rotterdam",
+    "name": "Picture MomentZ",
+    "address": "Zuidplein Hoog 836",
+    "city": "Rotterdam",
+    "postalCode": "3083 BR",
+    "country": "Netherlands",
+    "latitude": 51.8855,
+    "longitude": 4.4865,
+    "website": "https://www.picturemomentz.nl/",
+    "phone": "+31 10 410 3755",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Disposable cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Analog photo service page says new Kodak film rolls and disposable cameras are usually ready in-store.",
+    "confirmedBy": "picturemomentz.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.picturemomentz.nl/foto-s/fotorolletjes/"
+  },
+  {
+    "id": "mori-film-lab-brussels",
+    "name": "Mori Film Lab Brussels",
+    "address": "Rue du Croissant 66B",
+    "city": "Forest",
+    "postalCode": "1190",
+    "country": "Belgium",
+    "latitude": 50.8179,
+    "longitude": 4.3236,
+    "website": "https://morifilmlab.com/",
+    "phone": "",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official site describes Mori as a film lab and shop for analog photography, with Brussels and Antwerp store addresses.",
+    "confirmedBy": "morifilmlab.com",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://morifilmlab.com/pages/about-mori-film-lab"
+  },
+  {
+    "id": "mori-film-lab-antwerp",
+    "name": "Mori Film Lab Antwerp",
+    "address": "Nationalestraat 57",
+    "city": "Antwerp",
+    "postalCode": "2000",
+    "country": "Belgium",
+    "latitude": 51.2169,
+    "longitude": 4.3986,
+    "website": "https://morifilmlab.com/",
+    "phone": "",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official site describes Mori as a film lab and shop for analog photography, with Brussels and Antwerp store addresses.",
+    "confirmedBy": "morifilmlab.com",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://morifilmlab.com/pages/about-mori-film-lab"
+  },
+  {
+    "id": "retro-camera-ieper",
+    "name": "Retro Camera",
+    "address": "Stationsstraat 19",
+    "city": "Ieper",
+    "postalCode": "8900",
+    "country": "Belgium",
+    "latitude": 50.8499,
+    "longitude": 2.8812,
+    "website": "https://www.retrocamera.be/",
+    "phone": "+32 57 21 54 33",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Darkroom supplies",
+      "Film scanning"
+    ],
+    "notes": "Homepage lists a physical Ieper shop and a broad analog photography range including film, instant cameras, darkroom supplies, and scanning tools.",
+    "confirmedBy": "retrocamera.be",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.retrocamera.be/"
+  },
+  {
+    "id": "oldcamshop-antwerp",
+    "name": "Oldcamshop",
+    "address": "Graaf van Egmontstraat 8",
+    "city": "Antwerp",
+    "postalCode": "2000",
+    "country": "Belgium",
+    "latitude": 51.2137,
+    "longitude": 4.4092,
+    "website": "https://oldcam.ccvshop.nl/",
+    "phone": "",
+    "email": "info@oldcam.be",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Product pages list 35mm film for sale, and contact/drop-off pages list the Antwerp shop and film lab address.",
+    "confirmedBy": "oldcam.ccvshop.nl",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://oldcam.ccvshop.nl/Nieuwe-Kodak-Ultra-max-400-135-36"
+  },
+  {
+    "id": "foto-grobet-antwerp",
+    "name": "Foto Grobet",
+    "address": "Eiermarkt 25",
+    "city": "Antwerp",
+    "postalCode": "2000",
+    "country": "Belgium",
+    "latitude": 51.2194,
+    "longitude": 4.4028,
+    "website": "https://www.grobet.be/",
+    "phone": "+32 3 233 21 79",
+    "email": "info@grobet.be",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Darkroom supplies",
+      "Film developing"
+    ],
+    "notes": "Analog photography page lists negative and slide film, chemistry, darkroom materials, analog cameras, and film developing.",
+    "confirmedBy": "grobet.be",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.grobet.be/nl/content/analoge_fotografie"
+  },
+  {
+    "id": "pch-brussels",
+    "name": "PCH Pro Shop",
+    "address": "Rue du Midi 147",
+    "city": "Brussels",
+    "postalCode": "1000",
+    "country": "Belgium",
+    "latitude": 50.8433,
+    "longitude": 4.3467,
+    "website": "https://pch.be/",
+    "phone": "+32 2 511 66 08",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Darkroom supplies"
+    ],
+    "notes": "About page says the Brussels shop offers digital, film, and lab equipment, including a wide selection of films and black-and-white lab supplies.",
+    "confirmedBy": "pch.be",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://pch.be/en/about/"
+  },
+  {
+    "id": "foto-delro-sint-niklaas",
+    "name": "Foto DELRO",
+    "address": "Nieuwstraat 31",
+    "city": "Sint-Niklaas",
+    "postalCode": "9100",
+    "country": "Belgium",
+    "latitude": 51.164,
+    "longitude": 4.143,
+    "website": "https://delro.be/",
+    "phone": "+32 3 776 23 62",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Disposable cameras",
+      "Film developing"
+    ],
+    "notes": "Homepage says film rolls and disposable cameras are still available, and the webshop lists 35mm and instant film products.",
+    "confirmedBy": "delro.be",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://delro.be/"
+  },
+  {
+    "id": "nation-photo-chatelet-paris",
+    "name": "Nation Photo Châtelet",
+    "address": "39 rue des Lombards",
+    "city": "Paris",
+    "postalCode": "75001",
+    "country": "France",
+    "latitude": 48.859778,
+    "longitude": 2.347546,
+    "website": "https://www.nationphoto.com/fr/",
+    "phone": "+33 1 81 69 59 59",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site says Nation Photo offers films, cameras, accessories, and analog film development, and lists the Châtelet shop at 39 rue des Lombards.",
+    "confirmedBy": "nationphoto.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.nationphoto.com/fr/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "nationphoto.com",
+        "sourceUrl": "https://www.nationphoto.com/fr/"
+      }
+    ]
+  },
+  {
+    "id": "negatif-plus-argentique-paris",
+    "name": "Négatif+ Argentique",
+    "address": "106 rue La Fayette",
+    "city": "Paris",
+    "postalCode": "75010",
+    "country": "France",
+    "latitude": 48.877577,
+    "longitude": 2.350896,
+    "website": "https://negatifplus.com/",
+    "phone": "+33 805 390 000",
+    "email": "argentique@negatifplus.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official pages describe Négatif+ as a Paris film reseller and lab, with 135 and 120 film, film development, scanning, printing, and the Argentique boutique at 106 rue La Fayette.",
+    "confirmedBy": "negatifplus.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://negatifplus.com/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "negatifplus.com",
+        "sourceUrl": "https://negatifplus.com/"
+      },
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "negatifplus.com",
+        "sourceUrl": "https://negatifplus.com/magasins"
+      }
+    ]
+  },
+  {
+    "id": "processus-paris",
+    "name": "Processus",
+    "address": "163 rue de la Roquette",
+    "city": "Paris",
+    "postalCode": "75011",
+    "country": "France",
+    "latitude": 48.859546,
+    "longitude": 2.387389,
+    "website": "https://www.processusphoto.com/",
+    "phone": "+33 1 43 56 87 87",
+    "email": "info@processusphoto.com",
+    "stocks": [
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site describes Processus as a Paris lab with argentique services, high-definition digitization, exhibition prints, and film development at 163 rue de la Roquette.",
+    "confirmedBy": "processusphoto.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.processusphoto.com/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "processusphoto.com",
+        "sourceUrl": "https://www.processusphoto.com/"
+      },
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "processusphoto.com",
+        "sourceUrl": "https://www.processusphoto.com/contact"
+      }
+    ]
+  },
+  {
+    "id": "panajou-bordeaux",
+    "name": "Panajou Bordeaux",
+    "address": "32 Allées de Tourny",
+    "city": "Bordeaux",
+    "postalCode": "33000",
+    "country": "France",
+    "latitude": 44.844002,
+    "longitude": -0.576638,
+    "website": "https://www.panajou.fr/",
+    "phone": "+33 5 56 44 22 69",
+    "email": "contact@panajou.fr",
+    "stocks": [
+      "Photographic film",
+      "Disposable cameras"
+    ],
+    "notes": "Official product pages list Kodak and other 35mm film in stock at the Bordeaux shop and provide the Allées de Tourny store address.",
+    "confirmedBy": "panajou.fr",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.panajou.fr/pellicules-135/kodak-gold-200-36p-x3_p3891",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "panajou.fr",
+        "sourceUrl": "https://www.panajou.fr/pellicules-135/kodak-gold-200-36p-x3_p3891"
+      }
+    ]
+  },
+  {
+    "id": "panajou-numeriphot-toulouse",
+    "name": "Panajou X Numériphot",
+    "address": "24 boulevard Matabiau",
+    "city": "Toulouse",
+    "postalCode": "31000",
+    "country": "France",
+    "latitude": 43.615044,
+    "longitude": 1.445488,
+    "website": "https://www.panajou.fr/",
+    "phone": "+33 5 62 73 32 60",
+    "email": "contact@numeriphot.com",
+    "stocks": [
+      "Photographic film",
+      "Disposable cameras"
+    ],
+    "notes": "Official product pages list Kodak and Cinestill 35mm film in stock at the Toulouse shop and provide the boulevard Matabiau store address.",
+    "confirmedBy": "panajou.fr",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.panajou.fr/pellicules-135/kodak-gold-200-36p-x3_p3891",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "panajou.fr",
+        "sourceUrl": "https://www.panajou.fr/pellicules-135/kodak-gold-200-36p-x3_p3891"
+      }
+    ]
+  },
+  {
+    "id": "ateliers-de-marinette-lyon",
+    "name": "Les Ateliers de Marinette",
+    "address": "46 Rue Saint Georges",
+    "city": "Lyon",
+    "postalCode": "69005",
+    "country": "France",
+    "latitude": 45.757762,
+    "longitude": 4.82501,
+    "website": "https://www.ateliers-marinette.fr/",
+    "phone": "+33 9 50 22 66 48",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Instant film"
+    ],
+    "notes": "Official analog films page says the Lyon shop sells analog cameras and films, including a large analog-film catalog, and lists the Rue Saint Georges address.",
+    "confirmedBy": "ateliers-marinette.fr",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.ateliers-marinette.fr/en/photography/analog-films/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "ateliers-marinette.fr",
+        "sourceUrl": "https://www.ateliers-marinette.fr/en/photography/analog-films/"
+      }
+    ]
+  },
+  {
+    "id": "photolix-lille",
+    "name": "Photolix Film Lab",
+    "address": "104 Rue Pierre Mauroy",
+    "city": "Lille",
+    "postalCode": "59800",
+    "country": "France",
+    "latitude": 50.634905,
+    "longitude": 3.067282,
+    "website": "https://shop.atelier-photolix.fr/",
+    "phone": "+33 3 74 09 06 90",
+    "email": "contact@atelier-photolix.fr",
+    "stocks": [
+      "Photographic film",
+      "Disposable cameras",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official Photolix pages confirm a Lille lab with film and disposable-camera development, film sales, disposable and reusable camera sales, scans, prints, Instax/Polaroid products, and the Rue Pierre Mauroy address.",
+    "confirmedBy": "atelier-photolix.fr",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://shop.atelier-photolix.fr/labo-photo-lille-1/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "atelier-photolix.fr",
+        "sourceUrl": "https://shop.atelier-photolix.fr/labo-photo-lille-1/"
+      }
+    ]
+  },
+  {
+    "id": "camara-photo-dock-marseille",
+    "name": "Camara Photo Dock Marseille",
+    "address": "152 Rue de Rome",
+    "city": "Marseille",
+    "postalCode": "13006",
+    "country": "France",
+    "latitude": 43.288298,
+    "longitude": 5.382281,
+    "website": "https://www.photodock.fr/",
+    "phone": "+33 4 91 37 06 88",
+    "email": "marseille@camara.net",
+    "stocks": [
+      "Photographic film",
+      "Darkroom supplies",
+      "Film developing",
+      "Prints"
+    ],
+    "notes": "Public pages for Camara Photo Dock Marseille list film sales, in-store color and black-and-white film developing, darkroom materials, and the Rue de Rome shop address.",
+    "confirmedBy": "photodock.fr",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.photodock.fr/vente%2Bde%2Bpellicules%2Bphotos%2Bargentiques%2Bmarseille%2B13006-z45",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "photodock.fr",
+        "sourceUrl": "https://www.photodock.fr/vente%2Bde%2Bpellicules%2Bphotos%2Bargentiques%2Bmarseille%2B13006-z45"
+      }
+    ]
+  },
+  {
+    "id": "labo-argentique-vicq-sur-breuilh",
+    "name": "Labo-Argentique",
+    "address": "Les Plaines de Réjatas",
+    "city": "Vicq-sur-Breuilh",
+    "postalCode": "87260",
+    "country": "France",
+    "latitude": 45.634085,
+    "longitude": 1.416237,
+    "website": "https://labo-argentique.com/",
+    "phone": "+33 5 55 06 50 26",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Darkroom supplies",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site lists 35mm and 120 film, analog cameras, darkroom papers and chemistry, and lab services for film development, scanning, and prints, with the Vicq-sur-Breuilh address.",
+    "confirmedBy": "labo-argentique.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://labo-argentique.com/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "labo-argentique.com",
+        "sourceUrl": "https://labo-argentique.com/"
+      }
+    ]
+  },
+  {
+    "id": "imaginarium-du-photographe-clermont-ferrand",
+    "name": "L'Imaginarium du Photographe",
+    "address": "9 rue Terrasse",
+    "city": "Clermont-Ferrand",
+    "postalCode": "63000",
+    "country": "France",
+    "latitude": 45.77798,
+    "longitude": 3.08508,
+    "website": "https://labo-imaginarium.com/",
+    "phone": "+33 4 22 91 82 98",
+    "email": "contact@labo-imaginarium.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Camera repair",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site lists development, scans, prints, a shop, second-hand analog gear, repair/revision, and the 9 rue Terrasse location.",
+    "confirmedBy": "labo-imaginarium.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://labo-imaginarium.com/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "labo-imaginarium.com",
+        "sourceUrl": "https://labo-imaginarium.com/"
+      }
+    ]
+  },
+  {
+    "id": "fotoimpex-berlin",
+    "name": "FOTOIMPEX",
+    "address": "Alte Schönhauser Straße 32B",
+    "city": "Berlin",
+    "postalCode": "10119",
+    "country": "Germany",
+    "latitude": 52.52531,
+    "longitude": 13.406839,
+    "website": "https://www.fotoimpex.de/",
+    "phone": "+49 33631 64 59 0",
+    "email": "laden@fotoimpex.de",
+    "stocks": [
+      "Photographic film",
+      "Darkroom supplies",
+      "Film developing"
+    ],
+    "notes": "Official site describes FOTOIMPEX as an analog specialist with a Berlin store and lists black-and-white, color, instant, sheet film, darkroom paper, chemistry, lab equipment, and film development.",
+    "confirmedBy": "fotoimpex.de",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.fotoimpex.de/website/home/defotoimpex/fotolabor/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "fotoimpex.de",
+        "sourceUrl": "https://www.fotoimpex.de/website/home/defotoimpex/fotolabor/"
+      }
+    ]
+  },
+  {
+    "id": "safelight-berlin",
+    "name": "Safelight Berlin",
+    "address": "Schivelbeiner Str. 9",
+    "city": "Berlin",
+    "postalCode": "10439",
+    "country": "Germany",
+    "latitude": 52.551021,
+    "longitude": 13.411127,
+    "website": "https://safelightberlin.com/",
+    "phone": "",
+    "email": "info@safelightberlin.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Darkroom supplies",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official shop navigation lists 35mm, 120, 110, and instant film categories; the about and location pages confirm analog camera sales, film lab services, scanning, printing, and the Berlin shop address.",
+    "confirmedBy": "safelightberlin.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://safelightberlin.com/pages/about",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "safelightberlin.com",
+        "sourceUrl": "https://safelightberlin.com/pages/about"
+      }
+    ]
+  },
+  {
+    "id": "foto-kotti-berlin",
+    "name": "Foto Kotti",
+    "address": "Skalitzerstr. 134",
+    "city": "Berlin",
+    "postalCode": "10999",
+    "country": "Germany",
+    "latitude": 52.499276,
+    "longitude": 13.419537,
+    "website": "https://www.fotokotti.de/",
+    "phone": "+49 30 202 88401",
+    "email": "info@fotokotti.de",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Public site says Foto Kotti offers films, cameras, film developing, and prints, with 35mm, 120, Instax, and Polaroid film categories and the Skalitzerstrasse shop address.",
+    "confirmedBy": "fotokotti.de",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://kottilab.de/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "fotokotti.de",
+        "sourceUrl": "https://kottilab.de/"
+      }
+    ]
+  },
+  {
+    "id": "film-speed-lab-berlin",
+    "name": "Film Speed Lab",
+    "address": "Dietrich-Bonhoeffer-Straße 32",
+    "city": "Berlin",
+    "postalCode": "10407",
+    "country": "Germany",
+    "latitude": 52.535263,
+    "longitude": 13.432704,
+    "website": "https://filmspeedlab.com/",
+    "phone": "+49 176 84786140",
+    "email": "fsl@filmspeedlab.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site lists film rolls and analog cameras for sale, next-day film developing/scanning, print services, and the Berlin lab address.",
+    "confirmedBy": "filmspeedlab.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://filmspeedlab.com/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "filmspeedlab.com",
+        "sourceUrl": "https://filmspeedlab.com/"
+      }
+    ]
+  },
+  {
+    "id": "andec-filmtechnik-berlin",
+    "name": "Andec Filmtechnik",
+    "address": "Hasenheide 9, Aufgang 3",
+    "city": "Berlin",
+    "postalCode": "10967",
+    "country": "Germany",
+    "latitude": 52.487236,
+    "longitude": 13.422246,
+    "website": "https://www.andecfilm.de/en/",
+    "phone": "+49 30 691 7036",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Motion picture film",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official site lists online film sales with on-site collection, filmstock, scanning, and Super8, 16mm, and 35mm motion-picture lab services at the Hasenheide address.",
+    "confirmedBy": "andecfilm.de",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.andecfilm.de/en/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "andecfilm.de",
+        "sourceUrl": "https://www.andecfilm.de/en/"
+      }
+    ]
+  },
+  {
+    "id": "khrome-hamburg",
+    "name": "KHROME",
+    "address": "Kaiser-Wilhelm-Str. 73",
+    "city": "Hamburg",
+    "postalCode": "20355",
+    "country": "Germany",
+    "latitude": 53.553957,
+    "longitude": 9.982209,
+    "website": "https://khrome.de/",
+    "phone": "+49 40 81991084",
+    "email": "info@khrome.de",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site describes KHROME as a Hamburg store and lab for analog photography, listing films, analog cameras, lenses, accessories, development, scanning, printing, and the shop/lab address.",
+    "confirmedBy": "khrome.de",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://khrome.de/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "khrome.de",
+        "sourceUrl": "https://khrome.de/"
+      }
+    ]
+  },
+  {
+    "id": "on-film-lab-frankfurt",
+    "name": "ON FILM LAB",
+    "address": "Sandweg 131A",
+    "city": "Frankfurt am Main",
+    "postalCode": "60316",
+    "country": "Germany",
+    "latitude": 50.121702,
+    "longitude": 8.700452,
+    "website": "https://onfilmlab.de/",
+    "phone": "+49 69 26942196",
+    "email": "hello@onfilmlab.de",
+    "stocks": [
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site confirms ON FILM LAB develops, scans, and prints film, with C-41, black-and-white, ECN-2, and E-6 processing options and drop-off/pick-up at the Frankfurt address.",
+    "confirmedBy": "onfilmlab.de",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://onfilmlab.de/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "onfilmlab.de",
+        "sourceUrl": "https://onfilmlab.de/"
+      }
+    ]
+  },
+  {
+    "id": "foto-koch-duesseldorf",
+    "name": "Foto Koch",
+    "address": "Schadowstraße 60/62",
+    "city": "Düsseldorf",
+    "postalCode": "40212",
+    "country": "Germany",
+    "latitude": 51.227313,
+    "longitude": 6.785063,
+    "website": "https://www.fotokoch.de/",
+    "phone": "+49 211 178800",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Disposable cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official product pages list 35mm film with same-day pickup in the Düsseldorf store, analog film development through an external specialist lab, scans, prints, and the Schadowstraße shop address.",
+    "confirmedBy": "fotokoch.de",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.fotokoch.de/foto-filme.html",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "fotokoch.de",
+        "sourceUrl": "https://www.fotokoch.de/foto-filme.html"
+      },
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "fotokoch.de",
+        "sourceUrl": "https://www.fotokoch.de/filiale.html"
+      },
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "fotokoch.de",
+        "sourceUrl": "https://www.fotokoch.de/foto-entwicklung.html"
+      }
+    ]
+  },
+  {
+    "id": "kamera-express-koeln",
+    "name": "Kamera Express Köln",
+    "address": "Neumarkt 32-34",
+    "city": "Köln",
+    "postalCode": "50667",
+    "country": "Germany",
+    "latitude": 50.936361,
+    "longitude": 6.9458,
+    "website": "https://www.kamera-express.de/filialen/koeln",
+    "phone": "+49 221 65084595",
+    "email": "koeln@kamera-express.de",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Disposable cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official Kamera Express pages list film rolls, analog cameras, darkroom supplies, and an analog specialist lab service; the Köln branch page confirms the former Foto Gregor location at Neumarkt 32-34.",
+    "confirmedBy": "kamera-express.de",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.kamera-express.de/film-fotorollen-baender",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "kamera-express.de",
+        "sourceUrl": "https://www.kamera-express.de/film-fotorollen-baender"
+      },
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "foto-gregor.de",
+        "sourceUrl": "https://www.foto-gregor.de/filialen/koeln"
+      }
+    ]
+  },
+  {
+    "id": "nimm-film-leipzig",
+    "name": "NIMM FILM",
+    "address": "Lionstraße 12",
+    "city": "Leipzig",
+    "postalCode": "04177",
+    "country": "Germany",
+    "latitude": 51.334681,
+    "longitude": 12.340162,
+    "website": "https://www.nimmfilm.de/",
+    "phone": "+49 1573 5591536",
+    "email": "info@nimmfilm.de",
+    "stocks": [
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official site confirms a Leipzig storefront lab for professional development and digitization of C-41, ECN-2, black-and-white, and E-6 photographic films.",
+    "confirmedBy": "nimmfilm.de",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.nimmfilm.de/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "nimmfilm.de",
+        "sourceUrl": "https://www.nimmfilm.de/"
+      }
+    ]
+  },
+  {
+    "id": "chilli-and-films-murcia",
+    "name": "Chilli & Films",
+    "address": "Avenida de la Libertad 1, Edificio Clara, Entr D",
+    "city": "Murcia",
+    "postalCode": "30009",
+    "country": "Spain",
+    "latitude": 37.989447,
+    "longitude": -1.134077,
+    "website": "https://www.instagram.com/chilliandfilms/?hl=en",
+    "phone": "",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Camera repair",
+      "Film developing",
+      "Prints"
+    ],
+    "notes": "Instagram profile lists Chilli & Films as shopping and retail in Murcia, with analog cameras, films, camera repair through @chilliandfilmsworkshop, a lab through @chilliandfilmslab, and analog wedding photography through @elestudiodeolivia.",
+    "confirmedBy": "instagram.com/chilliandfilms",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.instagram.com/chilliandfilms/?hl=en",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-28",
+        "confirmedBy": "instagram.com/chilliandfilms",
+        "sourceUrl": "https://www.instagram.com/chilliandfilms/?hl=en"
+      }
+    ]
+  },
+  {
+    "id": "formosa-film-lab-faro",
+    "name": "Formosa Film Lab",
+    "address": "Rua Castilho 28A",
+    "city": "Faro",
+    "postalCode": "8000-247",
+    "country": "Portugal",
+    "latitude": 37.01543,
+    "longitude": -7.9313,
+    "website": "https://www.formosafilmlab.pt/",
+    "phone": "+351 934 123 396",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site lists a Buy Film category with 35mm and 120 film products, plus film developing, scanning, prints, and a Faro drop-off address.",
+    "confirmedBy": "formosafilmlab.pt",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.formosafilmlab.pt/buyfilm",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-28",
+        "confirmedBy": "formosafilmlab.pt",
+        "sourceUrl": "https://www.formosafilmlab.pt/buyfilm"
+      }
+    ]
+  },
+  {
+    "id": "lx-film-store-lisbon",
+    "name": "LX Film Store",
+    "address": "Avenida de Roma 50D",
+    "city": "Lisbon",
+    "postalCode": "1700-348",
+    "country": "Portugal",
+    "latitude": 38.749545,
+    "longitude": -9.142474,
+    "website": "https://lxfilmstore.com/",
+    "phone": "+351 933 154 546",
+    "email": "geral@lxfilmstore.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site lists a Lisbon store, fresh color and black-and-white film stock, film cameras, and in-house film developing/scanning.",
+    "confirmedBy": "lxfilmstore.com",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://lxfilmstore.com/en-eu",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-28",
+        "confirmedBy": "lxfilmstore.com",
+        "sourceUrl": "https://lxfilmstore.com/en-eu"
+      },
+      {
+        "type": "in-person",
+        "confirmedDate": "2025-08-27",
+        "confirmedBy": "community visit"
+      }
+    ]
+  },
+  {
+    "id": "fotoskoda-prague",
+    "name": "FotoŠkoda",
+    "address": "Vodičkova 37",
+    "city": "Prague",
+    "postalCode": "110 00",
+    "country": "Czechia",
+    "latitude": 50.0815,
+    "longitude": 14.4252,
+    "website": "https://www.fotoskoda.cz/",
+    "phone": "+420 222 929 029",
+    "email": "shop@fotoskoda.cz",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Darkroom supplies",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official shop pages list 35mm film, camera film, analog cameras, darkroom supplies, and film processing services at the Prague store.",
+    "confirmedBy": "fotoskoda.cz",
+    "confirmedDate": "2026-04-28",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.fotoskoda.cz/filmy/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-28",
+        "confirmedBy": "fotoskoda.cz",
+        "sourceUrl": "https://www.fotoskoda.cz/filmy/"
+      },
+      {
+        "type": "in-person",
+        "confirmedDate": "2025-02-20",
+        "confirmedBy": "community visit"
+      }
+    ]
+  },
+  {
+    "id": "parallax-photographic-coop-london",
+    "name": "Parallax Photographic Coop",
+    "address": "Unit 2, 2 Beehive Place",
+    "city": "London",
+    "postalCode": "SW9 7QR",
+    "country": "United Kingdom",
+    "latitude": 51.463988,
+    "longitude": -0.113846,
+    "website": "https://parallaxphotographic.coop/",
+    "phone": "+44 20 8004 8648",
+    "email": "info@parallaxphotographic.coop",
+    "stocks": [
+      "Photographic film",
+      "Darkroom supplies",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official pages say the Brixton shop sells film, paper, chemistry, and other photographic supplies, with click-and-collect and film processing/drop-off available.",
+    "confirmedBy": "parallaxphotographic.coop",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://parallaxphotographic.coop/about/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "parallaxphotographic.coop",
+        "sourceUrl": "https://parallaxphotographic.coop/about/"
+      }
+    ]
+  },
+  {
+    "id": "rapid-eye-darkrooms-london",
+    "name": "Rapid Eye Darkrooms",
+    "address": "79 Leonard Street",
+    "city": "London",
+    "postalCode": "EC2A 4QS",
+    "country": "United Kingdom",
+    "latitude": 51.524678,
+    "longitude": -0.082926,
+    "website": "https://www.rapideye.uk.com/",
+    "phone": "+44 20 7729 9292",
+    "email": "support@rapideye.uk.com",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Darkroom supplies"
+    ],
+    "notes": "Official shop pages list 35mm, 120, 5x4, Polaroid, Lomo, and Super 8 film categories, in-store collection at Leonard Street, and film processing/scanning services.",
+    "confirmedBy": "rapideye.uk.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.rapideye.uk.com/products/ilford-ortho-plus-35mm",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "rapideye.uk.com",
+        "sourceUrl": "https://www.rapideye.uk.com/products/ilford-ortho-plus-35mm"
+      }
+    ]
+  },
+  {
+    "id": "the-minilab-skears-photographic-northampton",
+    "name": "The Minilab @ Skears Photographic",
+    "address": "203 Wellingborough Road",
+    "city": "Northampton",
+    "postalCode": "NN1 4ED",
+    "country": "United Kingdom",
+    "latitude": 52.241832,
+    "longitude": -0.877957,
+    "website": "https://www.theminilab.co.uk/",
+    "phone": "+44 1604 630675",
+    "email": "hello@theminilab.co.uk",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Disposable cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints",
+      "Camera repair"
+    ],
+    "notes": "Official about page says the Northampton shop stocks Kodak, Fujifilm, Lomography, and Ilford films, disposable and reusable cameras, film cameras, and offers developing/scanning.",
+    "confirmedBy": "theminilab.co.uk",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.theminilab.co.uk/about",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "theminilab.co.uk",
+        "sourceUrl": "https://www.theminilab.co.uk/about"
+      }
+    ]
+  },
+  {
+    "id": "soper-photographic-plymouth",
+    "name": "Soper Photographic",
+    "address": "55 Ebrington Street",
+    "city": "Plymouth",
+    "postalCode": "PL4 9AA",
+    "country": "United Kingdom",
+    "latitude": 50.37238,
+    "longitude": -4.135045,
+    "website": "https://www.soperphotographic.co.uk/",
+    "phone": "+44 1752 269773",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Camera repair",
+      "Darkroom supplies"
+    ],
+    "notes": "Official site says the Plymouth shop stocks 35mm, 120, 110, and instant film, analogue cameras, lenses, accessories, darkroom equipment, and repair services.",
+    "confirmedBy": "soperphotographic.co.uk",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.soperphotographic.co.uk/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "soperphotographic.co.uk",
+        "sourceUrl": "https://www.soperphotographic.co.uk/"
+      }
+    ]
+  },
+  {
+    "id": "nik-trick-photographic-services-folkestone",
+    "name": "Nik & Trick Photographic Services",
+    "address": "63 The Old High Street",
+    "city": "Folkestone",
+    "postalCode": "CT20 1RN",
+    "country": "United Kingdom",
+    "latitude": 51.080428,
+    "longitude": 1.18428,
+    "website": "https://ntphotoworks.com/",
+    "phone": "+44 1303 487156",
+    "email": "info@ntphotoworks.com",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints",
+      "Darkroom supplies"
+    ],
+    "notes": "Official shop page lists 35mm films, analogue film sales, darkroom supplies, and film processing, scanning, and printing services at the Folkestone retailer.",
+    "confirmedBy": "ntphotoworks.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://ntphotoworks.com/shop/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "ntphotoworks.com",
+        "sourceUrl": "https://ntphotoworks.com/shop/"
+      }
+    ]
+  },
+  {
+    "id": "take-it-easy-lab-leeds",
+    "name": "Take It Easy Lab",
+    "address": "Unit 1, Aire St Workshops, 30-34 Aire Street",
+    "city": "Leeds",
+    "postalCode": "LS1 4HT",
+    "country": "United Kingdom",
+    "latitude": 53.795596,
+    "longitude": -1.550694,
+    "website": "https://takeiteasylab.com/",
+    "phone": "",
+    "email": "hello@takeiteasylab.com",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official pages list a Buy Film shop, 35mm and 120 film products, film developing services, and a public Leeds drop-off/postal address.",
+    "confirmedBy": "takeiteasylab.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://takeiteasylab.com/pages/pack-slip",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "takeiteasylab.com",
+        "sourceUrl": "https://takeiteasylab.com/pages/pack-slip"
+      }
+    ]
+  },
+  {
+    "id": "stuck-in-film-south-croydon",
+    "name": "Stuck in Film",
+    "address": "Unit 11E, Capital Business Centre, 22 Carlton Road",
+    "city": "South Croydon",
+    "postalCode": "CR2 0BS",
+    "country": "United Kingdom",
+    "latitude": 51.352673,
+    "longitude": -0.094029,
+    "website": "https://stuckinfilm.co.uk/",
+    "phone": "",
+    "email": "info@stuckinfilm.co.uk",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official shop and lab pages list 35mm and 120 film, developing/scanning services, and a South Croydon local drop-off and collection address.",
+    "confirmedBy": "stuckinfilm.co.uk",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://stuckinfilm.co.uk/collections/lab",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "stuckinfilm.co.uk",
+        "sourceUrl": "https://stuckinfilm.co.uk/collections/lab"
+      }
+    ]
+  },
+  {
+    "id": "greens-photo-centre-halifax",
+    "name": "Greens Photo Centre",
+    "address": "3 Old Market",
+    "city": "Halifax",
+    "postalCode": "HX1 1TN",
+    "country": "United Kingdom",
+    "latitude": 53.723446,
+    "longitude": -1.859849,
+    "website": "https://greensphotocentre.co.uk/",
+    "phone": "+44 1422 368686",
+    "email": "info@greensphotocentre.co.uk",
+    "stocks": [
+      "Photographic film",
+      "Disposable cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official film collection lists 35mm, 120, instant film, and single-use cameras; official homepage/contact pages list film processing, negative/slide scanning, and the Halifax shop address.",
+    "confirmedBy": "greensphotocentre.co.uk",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://greensphotocentre.co.uk/collections/film",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "greensphotocentre.co.uk",
+        "sourceUrl": "https://greensphotocentre.co.uk/collections/film"
+      }
+    ]
+  },
+  {
+    "id": "the-photographers-gallery-bookshop-london",
+    "name": "The Photographers' Gallery Bookshop",
+    "address": "16-18 Ramillies Street",
+    "city": "London",
+    "postalCode": "W1F 7LW",
+    "country": "United Kingdom",
+    "latitude": 51.514958,
+    "longitude": -0.13904,
+    "website": "https://bookshop.thephotographersgallery.org.uk/",
+    "phone": "+44 20 7087 9323",
+    "email": "bookshop@tpg.org.uk",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras"
+    ],
+    "notes": "Official bookshop page says the Soho shop sells films, mainly analogue camera equipment, and has an extensive range of over 150 films; film collection page lists 35mm and 120 products.",
+    "confirmedBy": "bookshop.thephotographersgallery.org.uk",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://bookshop.thephotographersgallery.org.uk/pages/about-us",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "bookshop.thephotographersgallery.org.uk",
+        "sourceUrl": "https://bookshop.thephotographersgallery.org.uk/pages/about-us"
+      }
+    ]
+  },
+  {
+    "id": "real-camera-manchester",
+    "name": "Real Camera",
+    "address": "7 Dale Street",
+    "city": "Manchester",
+    "postalCode": "M1 1JA",
+    "country": "United Kingdom",
+    "latitude": 53.482131,
+    "longitude": -2.234635,
+    "website": "https://realcamera.co.uk/",
+    "phone": "+44 161 907 3236",
+    "email": "sales@realcamera.co.uk",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Camera repair",
+      "Darkroom supplies"
+    ],
+    "notes": "Official site lists Manchester and Liverpool shops, film products, 35mm/medium/large format cameras, darkroom/printing stock, and FAQ confirmation that the shops stock film.",
+    "confirmedBy": "realcamera.co.uk",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://realcamera.co.uk/faq/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "realcamera.co.uk",
+        "sourceUrl": "https://realcamera.co.uk/faq/"
+      }
+    ]
+  },
+  {
+    "id": "real-camera-liverpool",
+    "name": "Real Camera",
+    "address": "7 Hatton Garden",
+    "city": "Liverpool",
+    "postalCode": "L3 2FE",
+    "country": "United Kingdom",
+    "latitude": 53.40985,
+    "longitude": -2.986721,
+    "website": "https://realcamera.co.uk/",
+    "phone": "+44 151 236 2029",
+    "email": "liverpool@realcamera.co.uk",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Camera repair",
+      "Darkroom supplies"
+    ],
+    "notes": "Official site lists Manchester and Liverpool shops, film products, 35mm/medium/large format cameras, darkroom/printing stock, and FAQ confirmation that the shops stock film.",
+    "confirmedBy": "realcamera.co.uk",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://realcamera.co.uk/faq/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "realcamera.co.uk",
+        "sourceUrl": "https://realcamera.co.uk/faq/"
+      }
+    ]
+  },
+  {
+    "id": "ars-imago-roma",
+    "name": "ars-imago",
+    "address": "Via Caio Mario 25",
+    "city": "Roma",
+    "postalCode": "00192",
+    "country": "Italy",
+    "latitude": 41.909671,
+    "longitude": 12.460227,
+    "website": "https://www.ars-imago.com/",
+    "phone": "+39 06 960 42 253",
+    "email": "support@ars-imago.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Darkroom supplies"
+    ],
+    "notes": "Official site lists the Rome store, film and darkroom categories, in-store pickup, and film developing/scanning services.",
+    "confirmedBy": "ars-imago.com",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.ars-imago.com/en/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "ars-imago.com",
+        "sourceUrl": "https://www.ars-imago.com/en/"
+      }
+    ]
+  },
+  {
+    "id": "fate-i-capricci-lanzone-milano",
+    "name": "Fate i Capricci",
+    "address": "Via Lanzone 7",
+    "city": "Milano",
+    "postalCode": "20123",
+    "country": "Italy",
+    "latitude": 45.460543,
+    "longitude": 9.178854,
+    "website": "https://fateicapricci.it/",
+    "phone": "+39 02 804453",
+    "email": "info@fateicapricci.it",
+    "stocks": [
+      "Photographic film",
+      "Film developing"
+    ],
+    "notes": "Official film page lists Kodak, Fuji, and Ilford film products and says the Milano shops still sell, develop, and print film.",
+    "confirmedBy": "fateicapricci.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://fateicapricci.it/pellicole",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "fateicapricci.it",
+        "sourceUrl": "https://fateicapricci.it/pellicole"
+      }
+    ]
+  },
+  {
+    "id": "fate-i-capricci-san-michele-milano",
+    "name": "Fate i Capricci",
+    "address": "Via San Michele del Carso 6",
+    "city": "Milano",
+    "postalCode": "20144",
+    "country": "Italy",
+    "latitude": 45.465166,
+    "longitude": 9.164413,
+    "website": "https://fateicapricci.it/",
+    "phone": "+39 02 45491498",
+    "email": "vercelli@fateicapricci.it",
+    "stocks": [
+      "Photographic film",
+      "Film developing"
+    ],
+    "notes": "Official film page lists Kodak, Fuji, and Ilford film products and says the Milano shops still sell, develop, and print film.",
+    "confirmedBy": "fateicapricci.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://fateicapricci.it/pellicole",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "fateicapricci.it",
+        "sourceUrl": "https://fateicapricci.it/pellicole"
+      }
+    ]
+  },
+  {
+    "id": "fcf-milano",
+    "name": "FCF Photo & Video Gear Supplier",
+    "address": "Via Friuli 72",
+    "city": "Milano",
+    "postalCode": "20135",
+    "country": "Italy",
+    "latitude": 45.456927,
+    "longitude": 9.215654,
+    "website": "https://www.fcf.it/",
+    "phone": "+39 02 5453512",
+    "email": "fcf@fcf.it",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official site lists Fujicolor and Kodak 35mm/120 film products, the Milano store, and FCF LAB film developing/scanning services.",
+    "confirmedBy": "fcf.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.fcf.it/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "fcf.it",
+        "sourceUrl": "https://www.fcf.it/"
+      }
+    ]
+  },
+  {
+    "id": "il-fotoamatore-milano",
+    "name": "Il Fotoamatore",
+    "address": "Viale Vittorio Veneto 18",
+    "city": "Milano",
+    "postalCode": "20124",
+    "country": "Italy",
+    "latitude": 45.476715,
+    "longitude": 9.201264,
+    "website": "https://www.ilfotoamatore.it/",
+    "phone": "+39 02 63793887",
+    "email": "ordini@ilfotoamatore.it",
+    "stocks": [
+      "Photographic film",
+      "Film developing"
+    ],
+    "notes": "Official film page lists 35mm and 120 film products; official points-of-sale page lists the Milano branch and analog/digital development and print services.",
+    "confirmedBy": "ilfotoamatore.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.ilfotoamatore.it/layoutpage/pellicole-fotografiche.asp",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "ilfotoamatore.it",
+        "sourceUrl": "https://www.ilfotoamatore.it/layoutpage/pellicole-fotografiche.asp"
+      }
+    ]
+  },
+  {
+    "id": "pfg-punto-foto-group-milano",
+    "name": "P.F.G. Punto Foto Group",
+    "address": "Via Aristotele 67",
+    "city": "Milano",
+    "postalCode": "20128",
+    "country": "Italy",
+    "latitude": 45.509977,
+    "longitude": 9.22493,
+    "website": "https://www.puntofoto.it/",
+    "phone": "+39 02 27000793",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Darkroom supplies"
+    ],
+    "notes": "Official shop lists a pellicole category with Kodak, Fuji, Harman, Ferrania, and other film products and the Milano address in the footer.",
+    "confirmedBy": "puntofoto.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.puntofoto.it/shop.asp",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "puntofoto.it",
+        "sourceUrl": "https://www.puntofoto.it/shop.asp"
+      }
+    ]
+  },
+  {
+    "id": "raset-photo-roma",
+    "name": "RA.SE.T. / Raset Photo",
+    "address": "Piazza dei Navigatori 6/A",
+    "city": "Roma",
+    "postalCode": "00147",
+    "country": "Italy",
+    "latitude": 41.86008,
+    "longitude": 12.498578,
+    "website": "https://rasetphoto.it/",
+    "phone": "+39 06 52725439",
+    "email": "tetenal@raset.it",
+    "stocks": [
+      "Photographic film",
+      "Darkroom supplies"
+    ],
+    "notes": "Official film category lists 35mm, 120, sheet film, cinema film, photographic papers, and darkroom chemistry; footer lists the Rome address.",
+    "confirmedBy": "rasetphoto.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://rasetphoto.it/categoria-prodotto/pellicole-dia/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "rasetphoto.it",
+        "sourceUrl": "https://rasetphoto.it/categoria-prodotto/pellicole-dia/"
+      }
+    ]
+  },
+  {
+    "id": "sabatini-fotografia-roma",
+    "name": "Sabatini Fotografia",
+    "address": "Via Germanico 168/A",
+    "city": "Roma",
+    "postalCode": "00192",
+    "country": "Italy",
+    "latitude": 41.908742,
+    "longitude": 12.461357,
+    "website": "https://sabatinifotografia.it/",
+    "phone": "+39 06 3207278",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing"
+    ],
+    "notes": "Official Analogico/Pellicole category lists available 35mm and 120 film products; footer lists the Rome showroom address and shop services.",
+    "confirmedBy": "sabatinifotografia.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://sabatinifotografia.it/product-category/analogico/pellicole/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "sabatinifotografia.it",
+        "sourceUrl": "https://sabatinifotografia.it/product-category/analogico/pellicole/"
+      }
+    ]
+  },
+  {
+    "id": "soluzioni-arte-roma",
+    "name": "Soluzioni Arte",
+    "address": "Via Lorenzo Vidaschi 28",
+    "city": "Roma",
+    "postalCode": "00152",
+    "country": "Italy",
+    "latitude": 41.873873,
+    "longitude": 12.450204,
+    "website": "https://www.soluzioniarte.it/",
+    "phone": "+39 06 97276846",
+    "email": "info@soluzioniarte.it",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official analog page says the Rome store offers a curated range of Kodak films and development services for 35mm, 120, and sheet film.",
+    "confirmedBy": "soluzioniarte.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.soluzioniarte.it/en/analog/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "soluzioniarte.it",
+        "sourceUrl": "https://www.soluzioniarte.it/en/analog/"
+      }
+    ]
+  },
+  {
+    "id": "technifoto-venezia",
+    "name": "Technifoto",
+    "address": "San Polo Calle dei Saoneri 2745",
+    "city": "Venezia",
+    "postalCode": "30125",
+    "country": "Italy",
+    "latitude": 45.436694,
+    "longitude": 12.328633,
+    "website": "https://www.technifoto.it/",
+    "phone": "+39 041 721414",
+    "email": "info@technifoto.it",
+    "stocks": [
+      "Photographic film",
+      "Film scanning"
+    ],
+    "notes": "Official page says the Venice shop sells color, black-and-white, and instant films and offers negative and slide scanning.",
+    "confirmedBy": "technifoto.it",
+    "confirmedDate": "2026-04-29",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.technifoto.it/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-04-29",
+        "confirmedBy": "technifoto.it",
+        "sourceUrl": "https://www.technifoto.it/"
+      }
+    ]
+  },
+  {
+    "id": "chandal-barcelona",
+    "name": "Chandal",
+    "address": "Carrer d'en Tantarantana 16",
+    "city": "Barcelona",
+    "postalCode": "08003",
+    "country": "Spain",
+    "latitude": 41.386912,
+    "longitude": 2.18134,
+    "website": "https://www.chandal.tv/",
+    "phone": "+34 931 387 312",
+    "email": "chandal@chandal.tv",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing"
+    ],
+    "notes": "Official analog lab page lists 35mm and 120 film products and says the Barcelona shop is the official dubblelab drop-off point for film developing.",
+    "confirmedBy": "chandal.tv",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.chandal.tv/pages/revelado",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "chandal.tv",
+        "sourceUrl": "https://www.chandal.tv/pages/revelado"
+      }
+    ]
+  },
+  {
+    "id": "contado-pierde-madrid",
+    "name": "Contado Pierde",
+    "address": "Calle Carnero 15",
+    "city": "Madrid",
+    "postalCode": "28005",
+    "country": "Spain",
+    "latitude": 40.40827,
+    "longitude": -3.708584,
+    "website": "https://www.contadopierde.com/",
+    "phone": "+34 648 255 167",
+    "email": "contadopierdefoto@gmail.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site describes the Madrid space as a point of sale for film and cameras plus a professional analog lab for developing, scanning, and printing.",
+    "confirmedBy": "contadopierde.com",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.contadopierde.com/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "contadopierde.com",
+        "sourceUrl": "https://www.contadopierde.com/"
+      }
+    ]
+  },
+  {
+    "id": "gonzalez-foto-astro-valencia",
+    "name": "Gonzalez Foto Astro",
+    "address": "Calle de Castellon 17",
+    "city": "Valencia",
+    "postalCode": "46004",
+    "country": "Spain",
+    "latitude": 39.466254,
+    "longitude": -0.376712,
+    "website": "https://gonzalezanalogico.com/",
+    "phone": "+34 963528282",
+    "email": "info@fotoastrogonzalez.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Camera repair"
+    ],
+    "notes": "Official site says the Valencia shop specializes in analog photography, sells cameras and film, and offers film developing, digitizing, and repair services.",
+    "confirmedBy": "gonzalezanalogico.com",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://gonzalezanalogico.com/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "gonzalezanalogico.com",
+        "sourceUrl": "https://gonzalezanalogico.com/"
+      }
+    ]
+  },
+  {
+    "id": "la-peliculera-madrid",
+    "name": "La Peliculera",
+    "address": "Calle Argensola 2",
+    "city": "Madrid",
+    "postalCode": "28004",
+    "country": "Spain",
+    "latitude": 40.424752,
+    "longitude": -3.695219,
+    "website": "https://lapeliculera.com/",
+    "phone": "+34 913 10 44 18",
+    "email": "info@lapeliculera.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Prints"
+    ],
+    "notes": "Official product pages say the Madrid shop specializes in analog photography, carries film in multiple formats and brands, and offers lab and printing services.",
+    "confirmedBy": "lapeliculera.com",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://lapeliculera.com/producto/carrete-reto-aqua-400-27-exp/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "lapeliculera.com",
+        "sourceUrl": "https://lapeliculera.com/producto/carrete-reto-aqua-400-27-exp/"
+      }
+    ]
+  },
+  {
+    "id": "miyagi-studio-madrid",
+    "name": "Miyagi Studio",
+    "address": "Calle Feijoo 4 Local 2",
+    "city": "Madrid",
+    "postalCode": "28010",
+    "country": "Spain",
+    "latitude": 40.434805,
+    "longitude": -3.703861,
+    "website": "https://miyagistudio.com/",
+    "phone": "+34 611 743 585",
+    "email": "info@miyagistudio.com",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Prints",
+      "Camera repair"
+    ],
+    "notes": "Official site says the Chamberi store keeps more than 150 film references and offers an analog lab, printing, rentals, and camera repair.",
+    "confirmedBy": "miyagistudio.com",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://miyagistudio.com/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "miyagistudio.com",
+        "sourceUrl": "https://miyagistudio.com/"
+      }
+    ]
+  },
+  {
+    "id": "revelab-arago-barcelona",
+    "name": "REVELAB Studio",
+    "address": "Carrer d'Arago 381",
+    "city": "Barcelona",
+    "postalCode": "08013",
+    "country": "Spain",
+    "latitude": 41.398795,
+    "longitude": 2.173398,
+    "website": "https://www.revelab.es/",
+    "phone": "+34 933 397 487",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Darkroom supplies"
+    ],
+    "notes": "Official shop pages list film products and analog developing for 35mm, 120, 220, 110, 126, APS, and chemistry sold from the Barcelona lab and shop.",
+    "confirmedBy": "revelab.es",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.revelab.es/en/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "revelab.es",
+        "sourceUrl": "https://www.revelab.es/en/"
+      }
+    ]
+  },
+  {
+    "id": "revelab-valldonzella-barcelona",
+    "name": "REVELAB Studio",
+    "address": "Carrer de Valldonzella 50",
+    "city": "Barcelona",
+    "postalCode": "08001",
+    "country": "Spain",
+    "latitude": 41.383161,
+    "longitude": 2.164664,
+    "website": "https://www.revelab.es/",
+    "phone": "+34 936 255 107",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Darkroom supplies"
+    ],
+    "notes": "Official shop pages list film products and analog developing for 35mm, 120, 220, 110, 126, APS, and chemistry sold from the Barcelona lab and shop.",
+    "confirmedBy": "revelab.es",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.revelab.es/en/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "revelab.es",
+        "sourceUrl": "https://www.revelab.es/en/"
+      }
+    ]
+  },
+  {
+    "id": "visualkorner-balmes-barcelona",
+    "name": "Visualkorner Photo Lab",
+    "address": "Carrer de Balmes 354",
+    "city": "Barcelona",
+    "postalCode": "08006",
+    "country": "Spain",
+    "latitude": 41.403828,
+    "longitude": 2.142459,
+    "website": "https://vklaboratori.com/",
+    "phone": "+34 93 010 72 95",
+    "email": "info@visualkorner.com",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Darkroom supplies",
+      "Prints"
+    ],
+    "notes": "Official site says the Barcelona stores sell practically all film on the market, chemistry and paper, with analog developing, scanning, and printing services.",
+    "confirmedBy": "vklaboratori.com",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://vklaboratori.com/en/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "vklaboratori.com",
+        "sourceUrl": "https://vklaboratori.com/en/"
+      }
+    ]
+  },
+  {
+    "id": "visualkorner-torrent-de-lolla-barcelona",
+    "name": "Visualkorner Photo Lab",
+    "address": "Carrer del Torrent de l'Olla 14",
+    "city": "Barcelona",
+    "postalCode": "08012",
+    "country": "Spain",
+    "latitude": 41.398806,
+    "longitude": 2.161079,
+    "website": "https://vklaboratori.com/",
+    "phone": "+34 692 43 99 92",
+    "email": "info@visualkorner.com",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Darkroom supplies",
+      "Prints"
+    ],
+    "notes": "Official site says the Barcelona stores sell practically all film on the market, chemistry and paper, with analog developing, scanning, and printing services.",
+    "confirmedBy": "vklaboratori.com",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://vklaboratori.com/en/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "vklaboratori.com",
+        "sourceUrl": "https://vklaboratori.com/en/"
+      }
+    ]
+  },
+  {
+    "id": "blendpunkt-graz",
+    "name": "Fotolabor Blendpunkt",
+    "address": "Hans-Resel-Gasse 20",
+    "city": "Graz",
+    "postalCode": "8020",
+    "country": "Austria",
+    "latitude": 47.073084,
+    "longitude": 15.424283,
+    "website": "https://blendpunkt-lab.at/",
+    "phone": "+43 664 157 94 89",
+    "email": "fotolabor@blendpunkt.at",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Darkroom supplies",
+      "Prints"
+    ],
+    "notes": "Official site lists 35mm, 120, sheet film, instant film, in-house film development, scanning, and darkroom equipment from the Graz shop.",
+    "confirmedBy": "blendpunkt-lab.at",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://blendpunkt-lab.at/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "blendpunkt-lab.at",
+        "sourceUrl": "https://blendpunkt-lab.at/"
+      }
+    ]
+  },
+  {
+    "id": "foto-koeberl-graz",
+    "name": "Foto Koeberl",
+    "address": "Steyrergasse 39",
+    "city": "Graz",
+    "postalCode": "8010",
+    "country": "Austria",
+    "latitude": 47.063113,
+    "longitude": 15.450698,
+    "website": "https://fotokoeberl.at/",
+    "phone": "+43 316 846023",
+    "email": "shop@fotokoeberl.at",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Darkroom supplies",
+      "Prints"
+    ],
+    "notes": "Official site says the Graz store carries analog and digital gear and lists a Film & Labor category with 35mm, 120, 4x5, instant film, and photo papers.",
+    "confirmedBy": "fotokoeberl.at",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://fotokoeberl.at/produkt-kategorie/film-labor/filme/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "fotokoeberl.at",
+        "sourceUrl": "https://fotokoeberl.at/produkt-kategorie/film-labor/filme/"
+      }
+    ]
+  },
+  {
+    "id": "foto-leutner-wien",
+    "name": "Foto Leutner",
+    "address": "Kaiserstrasse 58",
+    "city": "Wien",
+    "postalCode": "1070",
+    "country": "Austria",
+    "latitude": 48.202895,
+    "longitude": 16.340449,
+    "website": "https://fotoleutner.at/",
+    "phone": "+43 1 523 72 44",
+    "email": "office@fotoleutner.at",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site says the Vienna photolab develops black-and-white, color negative, slide, and specialty films, with Lomography expertise and scan and print services.",
+    "confirmedBy": "fotoleutner.at",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://fotoleutner.at/en/film/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "fotoleutner.at",
+        "sourceUrl": "https://fotoleutner.at/en/film/"
+      }
+    ]
+  },
+  {
+    "id": "garage-film-lab-wien",
+    "name": "Garage Film Lab",
+    "address": "Laudongasse 58",
+    "city": "Wien",
+    "postalCode": "1080",
+    "country": "Austria",
+    "latitude": 48.213248,
+    "longitude": 16.342029,
+    "website": "https://garagefilmlab.at/",
+    "phone": "",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Darkroom supplies",
+      "Prints"
+    ],
+    "notes": "Official site says the Vienna lab offers C-41, black-and-white, ECN-2, E-6 processing, fresh film stocks, chemistry, darkroom paper, and handprints.",
+    "confirmedBy": "garagefilmlab.at",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://garagefilmlab.at/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "garagefilmlab.at",
+        "sourceUrl": "https://garagefilmlab.at/"
+      }
+    ]
+  },
+  {
+    "id": "photo-cluster-wien",
+    "name": "Photo Cluster",
+    "address": "Zieglergasse 34",
+    "city": "Wien",
+    "postalCode": "1070",
+    "country": "Austria",
+    "latitude": 48.201086,
+    "longitude": 16.345243,
+    "website": "https://www.photo-cluster.at/",
+    "phone": "+43 660 2553551",
+    "email": "contact@photo-cluster.at",
+    "stocks": [
+      "Photographic film",
+      "Analog cameras",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site says the Vienna coffee shop and lab carries 35mm, 120, and instant film, analog cameras, and offers in-house development, scanning, and prints.",
+    "confirmedBy": "photo-cluster.at",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.photo-cluster.at/coffee-and-shop/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "photo-cluster.at",
+        "sourceUrl": "https://www.photo-cluster.at/coffee-and-shop/"
+      }
+    ]
+  },
+  {
+    "id": "plusfoto-wien",
+    "name": "plusfoto",
+    "address": "Stolzenthalergasse 6/1B",
+    "city": "Wien",
+    "postalCode": "1080",
+    "country": "Austria",
+    "latitude": 48.208581,
+    "longitude": 16.341904,
+    "website": "https://www.plusfoto.at/",
+    "phone": "",
+    "email": "mail@plusfoto.at",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site says the Vienna film lab develops 35mm and 120 color, black-and-white, and slide film, sells film stocks, and accepts in-person drop-off and pickup at the office.",
+    "confirmedBy": "plusfoto.at",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.plusfoto.at/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "plusfoto.at",
+        "sourceUrl": "https://www.plusfoto.at/"
+      }
+    ]
+  },
+  {
+    "id": "blow-up-fotolabor-munich",
+    "name": "blow up Fotolabor",
+    "address": "Jahnstrasse 36",
+    "city": "Munich",
+    "postalCode": "80469",
+    "country": "Germany",
+    "latitude": 48.127924,
+    "longitude": 11.568831,
+    "website": "https://blowup-fotolabor.de/",
+    "phone": "+49 89 266549",
+    "email": "info@blowup-foto.de",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official site says the Munich lab continues classic analog negative and positive processing, with in-house film development for black-and-white, color negative, and roll film plus scan services.",
+    "confirmedBy": "blowup-fotolabor.de",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://blowup-fotolabor.de/unsere-leistungen/filmentwicklung/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "blowup-fotolabor.de",
+        "sourceUrl": "https://blowup-fotolabor.de/unsere-leistungen/filmentwicklung/"
+      }
+    ]
+  },
+  {
+    "id": "sauter-calumet-munich-sonnenstrasse",
+    "name": "Sauter Calumet",
+    "address": "Sonnenstrasse 21",
+    "city": "Munich",
+    "postalCode": "80331",
+    "country": "Germany",
+    "latitude": 48.136044,
+    "longitude": 11.565393,
+    "website": "https://www.foto-video-sauter.de/",
+    "phone": "+49 89 5515040",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official Munich store page confirms an in-house picture-service area with photo development from the lab, while official product pages show current analog film listings including Kodak Portra and other 35mm and 120 stocks.",
+    "confirmedBy": "foto-video-sauter.de",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.foto-video-sauter.de/muenchen-sonnenstrasse",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "foto-video-sauter.de",
+        "sourceUrl": "https://www.foto-video-sauter.de/muenchen-sonnenstrasse"
+      }
+    ]
+  },
+  {
+    "id": "gulabi-glasgow",
+    "name": "Gulabi",
+    "address": "77 Torrisdale Street",
+    "city": "Glasgow",
+    "postalCode": "G42 8PW",
+    "country": "United Kingdom",
+    "latitude": 55.835434,
+    "longitude": -4.268573,
+    "website": "https://www.gulabi.co.uk/",
+    "phone": "+44 141 370 1903",
+    "email": "info@gulabi.co.uk",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official site says the Glasgow shopfront is open to the public for film sales, order drop-off, and negative collection, with a curated selection of color and black-and-white film in 35mm and 120 plus processing and scanning services.",
+    "confirmedBy": "gulabi.co.uk",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.gulabi.co.uk/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "gulabi.co.uk",
+        "sourceUrl": "https://www.gulabi.co.uk/"
+      }
+    ]
+  },
+  {
+    "id": "cameratiks-edinburgh",
+    "name": "Cameratiks",
+    "address": "122 Morningside Road",
+    "city": "Edinburgh",
+    "postalCode": "EH10 4BX",
+    "country": "United Kingdom",
+    "latitude": 55.931044,
+    "longitude": -3.210026,
+    "website": "https://www.cameratiks.co.uk/",
+    "phone": "+44 131 452 9614",
+    "email": "camerabase122@gmail.com",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Prints",
+      "Darkroom supplies",
+      "Camera repair"
+    ],
+    "notes": "Official pages list the Edinburgh shop address, a film category, Ilford paper and processing chemicals, camera repairs, and film processing and printing for 35mm and 120 black-and-white, color negative, and transparency film.",
+    "confirmedBy": "cameratiks.co.uk",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.cameratiks.co.uk/services",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "cameratiks.co.uk",
+        "sourceUrl": "https://www.cameratiks.co.uk/services"
+      }
+    ]
+  },
+  {
+    "id": "jessops-glasgow",
+    "name": "Jessops",
+    "address": "6 Sauchiehall Street",
+    "city": "Glasgow",
+    "postalCode": "G2 3GF",
+    "country": "United Kingdom",
+    "latitude": 55.864338,
+    "longitude": -4.253199,
+    "website": "https://www.jessops.com/",
+    "phone": "+44 141 354 0069",
+    "email": "",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning",
+      "Prints"
+    ],
+    "notes": "Official Glasgow store page lists click-and-collect, 35mm film processing, film printing, and photo services at the Buchanan Galleries branch, while official product pages show current 35mm film listings available through Jessops store collection.",
+    "confirmedBy": "jessops.com",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.jessops.com/store-finder/glasgow",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "jessops.com",
+        "sourceUrl": "https://www.jessops.com/store-finder/glasgow"
+      }
+    ]
+  },
+  {
+    "id": "blende2-winterthur",
+    "name": "blende2",
+    "address": "Wartstrasse 3",
+    "city": "Winterthur",
+    "postalCode": "8400",
+    "country": "Switzerland",
+    "latitude": 47.500679,
+    "longitude": 8.7224418,
+    "website": "https://www.blende2.ch/",
+    "phone": "",
+    "email": "office@blende2.ch",
+    "stocks": [
+      "Photographic film",
+      "Film developing",
+      "Film scanning"
+    ],
+    "notes": "Official shop site describes blende2 as an analog photo store in Winterthur, lists Wartstrasse 3, and says it carries classic films from Kodak, Adox, and Lomography while offering development and digitising services.",
+    "confirmedBy": "blende2.ch",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://www.blende2.ch/",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "blende2.ch",
+        "sourceUrl": "https://www.blende2.ch/"
+      }
+    ]
+  },
+  {
+    "id": "topfoto-bodensee-halden",
+    "name": "Topfoto-Bodensee.ch",
+    "address": "Dorfstrasse 7",
+    "city": "Halden",
+    "postalCode": "9223",
+    "country": "Switzerland",
+    "latitude": 47.5045,
+    "longitude": 9.2069,
+    "website": "https://topfoto-bodensee.ch/",
+    "phone": "+41 71 460 28 58",
+    "email": "info@topfoto.me",
+    "stocks": [
+      "Photographic film"
+    ],
+    "notes": "Official site and business listing identify the Halden address and state that the shop offers a broad range of analog films, chemistry, paper, and film brands including ADOX, Cinestill, Foma, Fujifilm, Ilford, Kodak, and Polaroid. Coordinates are postcode-level for 9223 Halden pending a more exact storefront geocode.",
+    "confirmedBy": "topfoto-bodensee.ch",
+    "confirmedDate": "2026-05-05",
+    "confirmationType": "web",
+    "sourceUrl": "https://topfoto-bodensee.ch/pages/about",
+    "confirmations": [
+      {
+        "type": "web",
+        "confirmedDate": "2026-05-05",
+        "confirmedBy": "topfoto-bodensee.ch",
+        "sourceUrl": "https://topfoto-bodensee.ch/pages/about"
+      }
+    ]
+  }
+]

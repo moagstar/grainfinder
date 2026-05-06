@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 36" role="img" aria-label="Grainfinder">
+  <rect x="1" y="1" width="38" height="34" rx="7" fill="#fffaf0"/>
+  <path d="M18 12h18v7c-4.2.6-6.8 3.2-7.4 6.8H18z" fill="#30363d"/>
+  <path d="M18 25.8h10.6c-.1.7-.1 1.4 0 2H18z" fill="#30363d"/>
+  <rect x="21.35" y="15.35" width="2.2" height="2.7" rx="0.4" fill="#ffffff"/>
+  <rect x="26.35" y="15.35" width="2.2" height="2.7" rx="0.4" fill="#ffffff"/>
+  <rect x="31.35" y="15.35" width="2.2" height="2.7" rx="0.4" fill="#ffffff"/>
+  <rect x="21.35" y="22.35" width="2.2" height="2.7" rx="0.4" fill="#ffffff"/>
+  <rect x="26.35" y="22.35" width="2.2" height="2.7" rx="0.4" fill="#ffffff"/>
+  <rect x="5" y="9" width="15" height="22" rx="1.3" fill="#15191d"/>
+  <rect x="8.6" y="13" width="7.2" height="14.2" rx="1.1" fill="#f7c72f"/>
+  <path d="M10.4 14h2.1v12.2h-2.1z" fill="#ffd95d" opacity="0.58"/>
+  <rect x="17.2" y="12" width="1.7" height="16.2" rx="0.8" fill="#f7c72f" opacity="0.9"/>
+  <rect x="8" y="4" width="8.5" height="5" rx="0.8" fill="#15191d"/>
+  <path d="M4 9h17M4 31h17" fill="none" stroke="#15191d" stroke-width="3" stroke-linecap="square"/>
+</svg>

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Stockist Seeding"
+  short_description: "Seed film stockist candidates with evidence"
+  default_prompt: "Use $stockist-seeding to find evidence-backed photographic film stockist candidates for a city or country."
+
